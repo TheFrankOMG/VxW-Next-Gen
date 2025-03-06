@@ -281,3 +281,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Mar2025 22:22:09.612] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Duke] Frank30331'.
 [06Mar2025 22:22:09.612] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
 [06Mar2025 22:22:09.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[06Mar2025 22:24:58.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Applied effect Sunscreen to [Duke] Frank30331]
+[06Mar2025 22:27:44.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/9819, l='ServerLevel[world]', x=-2819.65, y=63.00, z=-2289.67] died: Vampire Baron Level 2 was slain by [Duke] Frank30331
+[06Mar2025 22:29:07.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/11012, l='ServerLevel[world]', x=-2831.30, y=74.00, z=-2111.30] died: Vampire Baron Level 4 was slain by Vampire Baron Level 5
+[06Mar2025 22:33:04.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/13036, l='ServerLevel[world]', x=-2870.57, y=64.00, z=-1957.53] died: Vampire Baron Level 5 was slain by [Duke] Frank30331
