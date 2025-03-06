@@ -333,3 +333,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Mar2025 23:09:09.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
 [06Mar2025 23:09:09.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 left the game
 [06Mar2025 23:09:09.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[06Mar2025 23:35:31.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Chest Slayer]
+[06Mar2025 23:35:31.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Amateur Archaeologist]
+[06Mar2025 23:38:51.608] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 23:42:07.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has completed the challenge [It Spreads]
+[06Mar2025 23:43:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Flexible Schedule]
+[06Mar2025 23:49:26.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2843, y=62, z=-6783} but found not block entity block Block{minecraft:water}[level=0] at location
+[06Mar2025 23:49:26.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-2843, y=62, z=-6783}
+[06Mar2025 23:49:26.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2837, y=54, z=-6727} but found not block entity block Block{minecraft:water}[level=8] at location
+[06Mar2025 23:49:26.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-2837, y=54, z=-6727}
+[06Mar2025 23:49:26.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2842, y=54, z=-6727} but found not block entity block Block{minecraft:water}[level=8] at location
+[06Mar2025 23:49:26.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-2842, y=54, z=-6727}
+[06Mar2025 23:49:26.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2841, y=54, z=-6727} but found not block entity block Block{minecraft:water}[level=8] at location
+[06Mar2025 23:49:26.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-2841, y=54, z=-6727}
+[06Mar2025 23:49:33.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [What Happens in Las Vegas...]
