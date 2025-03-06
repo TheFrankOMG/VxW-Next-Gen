@@ -293,3 +293,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Mar2025 22:40:15.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/19024, l='ServerLevel[world]', x=-2856.71, y=69.00, z=-2109.64] died: Vampire Baron Level 5 was shot by [Duke] Frank30331
 [06Mar2025 22:43:26.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ekber'/20606, l='ServerLevel[world]', x=-452.69, y=65.00, z=-489.32] died, message: 'Ekber was slain by Zombie'
 [06Mar2025 22:43:26.924] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ekber'/20606, l='ServerLevel[world]', x=-452.69, y=65.00, z=-489.32] died: Ekber was slain by Zombie
+[06Mar2025 22:47:13.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Mar2025 22:51:47.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Creative Mode]
+[06Mar2025 22:52:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Spectator Mode]
+[06Mar2025 22:52:41.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[06Mar2025 22:53:35.552] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[06Mar2025 22:53:35.553] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[06Mar2025 22:53:35.553] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[06Mar2025 22:53:35.554] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[06Mar2025 22:53:46.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Teleported [Duke] Frank30331 to -451.500000, 65.000000, 489.500000]
+[06Mar2025 22:54:29.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Creative Mode]
+[06Mar2025 22:55:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Spectator Mode]
+[06Mar2025 22:56:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Survival Mode]
+[06Mar2025 22:57:03.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Creative Mode]
+[06Mar2025 22:57:18.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Survival Mode]
+[06Mar2025 22:58:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Creative Mode]
+[06Mar2025 22:59:40.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 22:59:44.378] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 22:59:46.778] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 22:59:48.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 23:01:40.168] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 23:01:47.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 23:02:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Teleported [Duke] Frank30331 to 0.500000, 89.000000, 0.500000]
+[06Mar2025 23:02:18.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved too quickly! -7.059202240641923,5.16569022649476,-16.83075826131659
+[06Mar2025 23:03:56.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Teleported [Duke] Frank30331 to -999.500000, 101.000000, -1499.500000]
+[06Mar2025 23:04:28.774] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[06Mar2025 23:04:31.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Teleported [Duke] Frank30331 to -1999.500000, 101.000000, -2499.500000]
+[06Mar2025 23:04:31.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3525ms or 70 ticks behind
+[06Mar2025 23:04:31.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! 8.442387570753453,-2.865273021488008,9.814996668363165
+[06Mar2025 23:04:49.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [The Desert Swimmers]
+[06Mar2025 23:04:53.939] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[06Mar2025 23:04:55.499] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[06Mar2025 23:06:11.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Teleported [Duke] Frank30331 to -2081.500000, 101.000000, -5499.500000]
+[06Mar2025 23:07:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Spectator Mode]
+[06Mar2025 23:07:17.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Creative Mode]
+[06Mar2025 23:07:21.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved too quickly! 10.243292217868657,0.6840000271797209,0.5062388812420977
+[06Mar2025 23:07:42.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Spectator Mode]
+[06Mar2025 23:07:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Survival Mode]
+[06Mar2025 23:09:09.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[06Mar2025 23:09:09.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 left the game
+[06Mar2025 23:09:09.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
