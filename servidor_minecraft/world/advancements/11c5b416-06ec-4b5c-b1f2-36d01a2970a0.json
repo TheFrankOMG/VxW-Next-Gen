@@ -38,9 +38,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-03-06 00:03:36 +0000",
+      "minecraft:badlands": "2025-03-06 00:09:25 +0000",
+      "minecraft:savanna_plateau": "2025-03-06 00:12:21 +0000",
       "minecraft:sparse_jungle": "2025-03-05 23:31:31 +0000",
       "minecraft:forest": "2025-03-05 23:27:00 +0000",
       "minecraft:jungle": "2025-03-05 23:31:49 +0000",
+      "minecraft:savanna": "2025-03-06 00:12:55 +0000",
       "minecraft:plains": "2025-03-05 23:30:39 +0000"
     },
     "done": false
@@ -477,6 +480,12 @@
     },
     "done": false
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-06 00:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-03-05 23:55:15 +0000"
@@ -492,6 +501,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-05 23:49:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
     },
     "done": true
   },
@@ -546,6 +561,12 @@
   "vampirism:recipes/decorations/vampire/altar_infusion": {
     "criteria": {
       "has_gold": "2025-03-05 23:55:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
     },
     "done": true
   },
@@ -706,6 +727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 00:15:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-05 23:49:05 +0000"
@@ -718,9 +745,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-03-05 23:55:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-03-06 00:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-06 00:15:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
     },
     "done": true
   },
@@ -763,6 +814,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-06 00:01:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-03-06 00:15:37 +0000"
     },
     "done": true
   },
@@ -814,6 +871,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/transportation/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2025-03-06 00:01:19 +0000"
@@ -850,6 +913,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 00:15:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-03-06 00:01:19 +0000"
@@ -868,6 +943,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2025-03-06 00:01:12 +0000"
@@ -877,6 +958,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-05 23:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 00:15:37 +0000"
     },
     "done": true
   },
@@ -892,9 +979,21 @@
     },
     "done": false
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-03-06 00:09:50 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
     "criteria": {
       "has_diamond": "2025-03-05 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
     },
     "done": true
   },
@@ -982,6 +1081,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-03-06 00:12:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/bat_cage": {
     "criteria": {
       "has_planks": "2025-03-05 23:49:05 +0000"
@@ -997,6 +1102,12 @@
   "vampirism:recipes/transportation/dark_spruce_boat": {
     "criteria": {
       "in_water": "2025-03-06 00:01:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-03-06 00:12:35 +0000"
     },
     "done": true
   },
@@ -1114,6 +1225,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-03-05 23:55:14 +0000"
@@ -1129,6 +1252,12 @@
   "mca:recipes/decorations/brown_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-03-05 23:49:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-03-06 00:15:37 +0000"
     },
     "done": true
   },
@@ -1234,9 +1363,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-05 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-03-06 00:12:36 +0000"
     },
     "done": true
   },
@@ -1267,6 +1408,12 @@
   "mca:recipes/decorations/light_blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-03-05 23:49:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-06 00:15:37 +0000"
     },
     "done": true
   },
