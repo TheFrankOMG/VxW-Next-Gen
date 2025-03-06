@@ -266,3 +266,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Mar2025 21:43:00.338] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (82d420bf-eb70-4a1a-b718-7764a37d18c2)
 [06Mar2025 21:43:00.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has reached the goal [Heliomancer]
 [06Mar2025 21:43:01.547] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82d420bf-eb70-4a1a-b718-7764a37d18c2 was loaded
+[06Mar2025 22:16:23.227] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[06Mar2025 22:16:25.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.249.5.38:36665] logged in with entity id 5270 at (-463.07776183736604, 64.0, -468.4645840390604)
+[06Mar2025 22:16:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 joined the game
+[06Mar2025 22:16:25.879] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Duke] Frank30331'.
+[06Mar2025 22:16:25.880] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[06Mar2025 22:16:26.790] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[06Mar2025 22:21:40.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Timed out
+[06Mar2025 22:21:40.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 left the game
+[06Mar2025 22:21:40.878] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[06Mar2025 22:22:07.063] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[06Mar2025 22:22:09.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.249.5.38:53023] logged in with entity id 6458 at (-768.8543977923842, 63.0, 967.8311149664777)
+[06Mar2025 22:22:09.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 joined the game
+[06Mar2025 22:22:09.612] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Duke] Frank30331'.
+[06Mar2025 22:22:09.612] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[06Mar2025 22:22:09.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded

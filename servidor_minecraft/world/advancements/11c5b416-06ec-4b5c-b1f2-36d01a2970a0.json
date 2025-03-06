@@ -6535,9 +6535,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
+  "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
-      "killed_by": "2025-03-06 03:39:08 +0000"
+      "killed": "2025-03-06 03:38:35 +0000"
     },
     "done": true
   },
@@ -6547,9 +6547,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/kangaroo": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "killed": "2025-03-06 03:38:35 +0000"
+      "killed_by": "2025-03-06 03:39:08 +0000"
     },
     "done": true
   },
