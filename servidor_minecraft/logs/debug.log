@@ -4975,3 +4975,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Mar2025 00:32:56.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Mar2025 00:32:56.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Mar2025 00:36:20.721] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Sahankiel071727 has new faction level werewolves:werewolf 13
+[07Mar2025 00:37:56.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 00:37:56.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 00:39:14.698] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=-2405, y=71, z=-5378} with badomen level -1
+[07Mar2025 00:40:20.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Aydın'/96611, l='ServerLevel[world]', x=-2405.49, y=84.50, z=-5401.93] died, message: 'Aydın was slain by Werewolf'
+[07Mar2025 00:40:20.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Aydın'/96611, l='ServerLevel[world]', x=-2405.49, y=84.50, z=-5401.93] died: Aydın was slain by Werewolf
+[07Mar2025 00:40:41.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Ferhat'/96612, l='ServerLevel[world]', x=-2404.51, y=84.00, z=-5401.41] died, message: 'Ferhat was slain by Werewolf'
+[07Mar2025 00:40:41.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Ferhat'/96612, l='ServerLevel[world]', x=-2404.51, y=84.00, z=-5401.41] died: Ferhat was slain by Werewolf
+[07Mar2025 00:40:47.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0
+[07Mar2025 00:40:47.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1
+[07Mar2025 00:40:47.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0
+[07Mar2025 00:40:47.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0
+[07Mar2025 00:40:47.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0
+[07Mar2025 00:40:47.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[07Mar2025 00:40:54.404] [Worker-Main-48/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 119.351s
+[07Mar2025 00:41:27.920] [Worker-Main-63/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 146.871s
+[07Mar2025 00:42:46.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Nadiye'/96610, l='ServerLevel[world]', x=-2414.60, y=70.00, z=-5379.66] died, message: 'Nadiye was slain by Sahankiel0717271'
+[07Mar2025 00:42:46.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Nadiye'/96610, l='ServerLevel[world]', x=-2414.60, y=70.00, z=-5379.66] died: Nadiye was slain by Sahankiel0717271
+[07Mar2025 00:42:56.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 00:42:56.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 00:43:22.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Sadiye'/96179, l='ServerLevel[world]', x=-2401.50, y=70.00, z=-5381.50] died, message: 'Sadiye was shot by Sahankiel0717271'
+[07Mar2025 00:43:22.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Sadiye'/96179, l='ServerLevel[world]', x=-2401.50, y=70.00, z=-5381.50] died: Sadiye was shot by Sahankiel0717271
+[07Mar2025 00:43:42.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Gülden'/96188, l='ServerLevel[world]', x=-2425.50, y=68.00, z=-5349.50] died, message: 'Gülden was shot by Sahankiel0717271'
+[07Mar2025 00:43:42.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Gülden'/96188, l='ServerLevel[world]', x=-2425.50, y=68.00, z=-5349.50] died: Gülden was shot by Sahankiel0717271
+[07Mar2025 00:43:56.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Münir'/96182, l='ServerLevel[world]', x=-2407.82, y=69.00, z=-5362.50] died, message: 'Münir was shot by Sahankiel0717271'
+[07Mar2025 00:43:56.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Münir'/96182, l='ServerLevel[world]', x=-2407.82, y=69.00, z=-5362.50] died: Münir was shot by Sahankiel0717271
+[07Mar2025 00:44:13.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Didem'/96181, l='ServerLevel[world]', x=-2408.16, y=69.00, z=-5368.56] died, message: 'Didem was slain by Sahankiel0717271'
+[07Mar2025 00:44:13.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Didem'/96181, l='ServerLevel[world]', x=-2408.16, y=69.00, z=-5368.56] died: Didem was slain by Sahankiel0717271
+[07Mar2025 00:46:56.982] [Worker-Main-62/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.954s
