@@ -6555,6 +6555,18 @@
     },
     "done": true
   },
+  "vampirism:minion/defend_area": {
+    "criteria": {
+      "task": "2025-03-07 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-03-07 01:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-03-07 01:06:38 +0000"
@@ -6573,15 +6585,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bandit_towers": {
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
-      "location0": "2025-03-07 01:02:24 +0000"
+      "has_log": "2025-03-07 01:30:21 +0000"
     },
     "done": true
   },
-  "vampirism:minion/defend_area": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "task": "2025-03-07 01:00:55 +0000"
+      "has_log": "2025-03-07 01:30:21 +0000"
     },
     "done": true
   },
