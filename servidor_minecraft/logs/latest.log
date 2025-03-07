@@ -281,3 +281,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Mar2025 22:04:48.698] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/1220, l='ServerLevel[world]', x=-1891.31, y=72.82, z=-5936.75]
 [07Mar2025 22:06:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Gave 1 [Cookie] to [Prince] Frank30331]
 [07Mar2025 22:11:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Eye of The Storm]
+[07Mar2025 22:16:19.283] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/8079, l='ServerLevel[world]', x=-2010.30, y=93.29, z=-5936.06]
+[07Mar2025 22:16:19.283] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/8080, l='ServerLevel[world]', x=-2009.16, y=93.44, z=-5936.29]
+[07Mar2025 22:20:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sunscreen to [Prince] Frank30331]
+[07Mar2025 22:22:14.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 5'/13050, l='ServerLevel[world]', x=-1254.89, y=63.00, z=160.99] died: Alpha Werewolf Level 5 was slain by Sahankiel0717271
