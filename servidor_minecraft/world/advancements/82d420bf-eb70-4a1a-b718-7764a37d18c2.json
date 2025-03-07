@@ -1509,6 +1509,7 @@
       "minecraft:pillager": "2025-02-24 22:55:13 +0000",
       "minecraft:skeleton": "2025-02-24 19:11:51 +0000",
       "minecraft:hoglin": "2025-02-27 00:46:39 +0000",
+      "minecraft:vindicator": "2025-03-07 00:49:16 +0000",
       "minecraft:spider": "2025-02-24 19:23:03 +0000",
       "minecraft:creeper": "2025-02-25 19:02:51 +0000",
       "minecraft:slime": "2025-02-25 18:03:55 +0000",
@@ -4976,6 +4977,12 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-03-07 00:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-06 22:15:10 +0000"
@@ -5084,6 +5091,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2025-03-07 00:54:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
       "has_item": "2025-03-06 23:32:47 +0000"
@@ -5105,6 +5118,12 @@
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-03-06 23:32:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-07 00:53:16 +0000"
     },
     "done": true
   },

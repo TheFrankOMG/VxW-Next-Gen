@@ -16,3 +16,28 @@
 [07Mar2025 00:43:56.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Münir'/96182, l='ServerLevel[world]', x=-2407.82, y=69.00, z=-5362.50] died: Münir was shot by Sahankiel0717271
 [07Mar2025 00:44:13.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Didem'/96181, l='ServerLevel[world]', x=-2408.16, y=69.00, z=-5368.56] died, message: 'Didem was slain by Sahankiel0717271'
 [07Mar2025 00:44:13.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Didem'/96181, l='ServerLevel[world]', x=-2408.16, y=69.00, z=-5368.56] died: Didem was slain by Sahankiel0717271
+[07Mar2025 00:48:25.349] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[07Mar2025 00:48:27.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.249.5.38:45747] logged in with entity id 98665 at (-756.1182854616693, 65.9375, 966.6774052355235)
+[07Mar2025 00:48:27.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 joined the game
+[07Mar2025 00:48:27.915] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Duke] Frank30331'.
+[07Mar2025 00:48:27.916] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[07Mar2025 00:48:28.875] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[07Mar2025 00:49:00.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has completed the challenge [Hunted]
+[07Mar2025 00:53:29.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/104274, l='ServerLevel[world]', x=-2856.19, y=66.00, z=-2099.30] died: Vampire Baron Level 5 was slain by [Duke] Frank30331
+[07Mar2025 00:54:48.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/105884, l='ServerLevel[world]', x=-2908.10, y=100.00, z=-2161.17] died: Vampire Baron Level 5 was slain by [Duke] Frank30331
+[07Mar2025 00:55:39.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/106425, l='ServerLevel[world]', x=-2807.69, y=72.00, z=-2188.36] died: Vampire Baron Level 5 was slain by [Duke] Frank30331
+[07Mar2025 00:56:01.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/106653, l='ServerLevel[world]', x=-2797.27, y=65.00, z=-2196.30] died: Vampire Baron Level 5 was slain by [Duke] Frank30331
+[07Mar2025 00:57:29.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new The powerful Bill]
+[07Mar2025 00:58:19.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Mar2025 01:00:12.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sahankiel0717271> [name:"las vegas", x:-2788, y:207, z:-6671, dim:minecraft:overworld]
+[07Mar2025 01:00:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Applied effect Sunscreen to [Duke] Frank30331]
+[07Mar2025 01:00:32.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireMinionEntity['Minion'/109572, l='ServerLevel[world]', x=-773.72, y=66.00, z=928.72] died: Minion did not like the sun
+[07Mar2025 01:00:55.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 has made the advancement [The Guardian]
+[07Mar2025 01:00:56.925] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[07Mar2025 01:00:56.928] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[07Mar2025 01:00:57.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[07Mar2025 01:02:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 has made the advancement [What Happens in Las Vegas...]
+[07Mar2025 01:03:13.826] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[07Mar2025 01:03:13.826] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[07Mar2025 01:03:13.826] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[07Mar2025 01:03:13.827] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
