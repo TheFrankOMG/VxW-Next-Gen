@@ -267,3 +267,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Mar2025 02:41:46.570] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@527c28a0[id=<null>,name=Sahankiel071727,properties={},legacy=false] (/127.140.107.191:57777) lost connection: Disconnected
 [07Mar2025 02:43:25.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Applied effect Sunscreen to Alex]
 [07Mar2025 02:43:35.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Applied effect Sanguinare Vampiris to [Duke] Frank30331]
+[07Mar2025 02:48:36.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17732d41[id=<null>,name=Sahankiel071727,properties={},legacy=false] (/127.140.107.191:46919) lost connection: Disconnected
+[07Mar2025 02:49:38.600] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sahankiel071727 is 82d420bf-eb70-4a1a-b718-7764a37d18c2
+[07Mar2025 02:49:41.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.140.107.191:45621] logged in with entity id 1930 at (-768.3023261436086, 68.0, 970.6941256405493)
+[07Mar2025 02:49:41.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 joined the game
+[07Mar2025 02:49:41.205] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Sahankiel0717271'.
+[07Mar2025 02:49:41.206] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (82d420bf-eb70-4a1a-b718-7764a37d18c2)
+[07Mar2025 02:49:41.776] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82d420bf-eb70-4a1a-b718-7764a37d18c2 was loaded
+[07Mar2025 02:50:53.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sakine'/2001, l='ServerLevel[world]', x=-2419.45, y=69.00, z=-5381.60] died, message: 'Sakine burned to death'
+[07Mar2025 02:50:53.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sakine'/2001, l='ServerLevel[world]', x=-2419.45, y=69.00, z=-5381.60] died: Sakine burned to death
+[07Mar2025 02:51:12.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Applied effect Sunscreen to [Duke] Frank30331]
+[07Mar2025 02:51:57.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:52:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:52:09.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rümeysa'/1999, l='ServerLevel[world]', x=-2386.96, y=64.09, z=-5340.13] died, message: 'Rümeysa tried to swim in lava'
+[07Mar2025 02:52:09.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rümeysa'/1999, l='ServerLevel[world]', x=-2386.96, y=64.09, z=-5340.13] died: Rümeysa tried to swim in lava
+[07Mar2025 02:52:13.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:52:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:52:29.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Masquerade]
+[07Mar2025 02:52:30.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:52:44.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Wither]
+[07Mar2025 02:53:18.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Creative Mode]
+[07Mar2025 02:53:31.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Survival Mode]
+[07Mar2025 02:53:36.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Creative Mode]
+[07Mar2025 02:53:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Set own game mode to Survival Mode]
+[07Mar2025 02:54:02.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Wither Skeleton]
+[07Mar2025 02:54:09.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Wither Skeleton]
+[07Mar2025 02:54:36.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:54:42.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Ravager]
+[07Mar2025 02:54:50.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kahraman'/3083, l='ServerLevel[world]', x=-2401.27, y=72.00, z=-5390.59] died, message: 'Kahraman burned to death'
+[07Mar2025 02:54:58.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[07Mar2025 02:54:58.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 left the game
+[07Mar2025 02:54:58.775] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[07Mar2025 02:55:05.619] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[07Mar2025 02:55:08.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.249.5.38:41533] logged in with entity id 4337 at (-772.1540965568257, 73.0, 792.3697050818089)
+[07Mar2025 02:55:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 joined the game
+[07Mar2025 02:55:08.164] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Duke] Frank30331'.
+[07Mar2025 02:55:08.164] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[07Mar2025 02:55:08.351] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[07Mar2025 02:55:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Applied effect Sunscreen to [Duke] Frank30331]
+[07Mar2025 02:55:27.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:55:34.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Summoned new Zombie]
+[07Mar2025 02:55:41.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Teleported [Duke] Frank30331 to Sahankiel0717271]
+[07Mar2025 02:56:06.068] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[07Mar2025 02:56:10.065] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[07Mar2025 02:56:14.070] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
