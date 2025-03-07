@@ -6561,6 +6561,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-03-07 01:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-07 01:08:07 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-03-07 01:02:24 +0000"

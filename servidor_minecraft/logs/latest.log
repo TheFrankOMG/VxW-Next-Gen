@@ -41,3 +41,4 @@
 [07Mar2025 01:03:13.826] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
 [07Mar2025 01:03:13.826] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
 [07Mar2025 01:03:13.827] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[07Mar2025 01:13:27.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireMinionEntity['Alex'/113557, l='ServerLevel[world]', x=-2833.45, y=89.00, z=-6723.67] died: Alex was shot by [Duke] Frank30331

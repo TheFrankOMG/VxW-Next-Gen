@@ -5387,3 +5387,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Mar2025 01:03:13.827] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
 [07Mar2025 01:07:59.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Mar2025 01:07:59.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 01:12:59.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 01:12:59.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 01:13:27.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireMinionEntity['Alex'/113557, l='ServerLevel[world]', x=-2833.45, y=89.00, z=-6723.67] died: Alex was shot by [Duke] Frank30331
+[07Mar2025 01:17:59.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 01:17:59.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
