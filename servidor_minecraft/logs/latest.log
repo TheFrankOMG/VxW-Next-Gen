@@ -268,3 +268,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Mar2025 19:56:56.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2933, y=-37, z=-2278} BlockPos{x=-2934, y=-37, z=-2278}
 [07Mar2025 19:56:57.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2933, y=-37, z=-2278} BlockPos{x=-2934, y=-37, z=-2278}
 [07Mar2025 19:57:39.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2936, y=-36, z=-2275} BlockPos{x=-2938, y=-35, z=-2274}
+[07Mar2025 20:07:16.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/4248, l='ServerLevel[world]', x=-2801.38, y=63.00, z=-2303.56] died: Vampire Baron Level 5 was slain by Vampire Baron Level 5
+[07Mar2025 20:08:56.517] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[07Mar2025 20:08:59.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.13.192.28:53067] logged in with entity id 5068 at (-937.9854452941386, 73.33824197720125, 256.27886657788093)
+[07Mar2025 20:08:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 joined the game
+[07Mar2025 20:08:59.096] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Duke] Frank30331'.
+[07Mar2025 20:08:59.098] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[07Mar2025 20:09:00.063] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[07Mar2025 20:11:25.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Duke] Frank30331: Applied effect Sunscreen to [Duke] Frank30331]
+[07Mar2025 20:12:44.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Timed out
+[07Mar2025 20:12:44.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 left the game
+[07Mar2025 20:12:44.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[07Mar2025 20:12:59.325] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[07Mar2025 20:13:02.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.13.192.28:49357] logged in with entity id 8826 at (-970.3490664884639, 71.0, 256.8763070282465)
+[07Mar2025 20:13:02.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duke] Frank30331 joined the game
+[07Mar2025 20:13:02.480] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Duke] Frank30331'.
+[07Mar2025 20:13:02.482] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[07Mar2025 20:13:02.731] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
