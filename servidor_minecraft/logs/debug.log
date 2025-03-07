@@ -5394,3 +5394,66 @@ java.lang.Throwable: null
 [07Mar2025 03:47:22.237] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Sahankiel0717271'.
 [07Mar2025 03:47:22.240] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (82d420bf-eb70-4a1a-b718-7764a37d18c2)
 [07Mar2025 03:47:22.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82d420bf-eb70-4a1a-b718-7764a37d18c2 was loaded
+[07Mar2025 03:48:39.041] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 136.573s
+[07Mar2025 03:48:40.422] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:maned_wolf
+[07Mar2025 03:49:16.706] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[07Mar2025 03:49:16.706] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07Mar2025 03:49:16.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Settling In]
+[07Mar2025 03:49:40.363] [Worker-Main-10/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 137.795s
+[07Mar2025 03:49:46.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 03:49:46.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 03:52:57.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[07Mar2025 03:52:57.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_2
+[07Mar2025 03:52:57.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_0_normal
+[07Mar2025 03:52:57.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_1
+[07Mar2025 03:52:57.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_0
+[07Mar2025 03:52:57.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_2
+[07Mar2025 03:52:57.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_3
+[07Mar2025 03:52:57.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_1_spawner
+[07Mar2025 03:52:57.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_3
+[07Mar2025 03:52:57.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_0
+[07Mar2025 03:52:57.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_3_spawner
+[07Mar2025 03:52:57.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_stairway_0
+[07Mar2025 03:52:57.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_1
+[07Mar2025 03:52:57.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_2
+[07Mar2025 03:52:57.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_barrels_0
+[07Mar2025 03:52:57.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_1
+[07Mar2025 03:52:57.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_0
+[07Mar2025 03:52:57.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_housing_0
+[07Mar2025 03:52:57.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_2_temptation
+[07Mar2025 03:52:57.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_treasure_0
+[07Mar2025 03:53:22.667] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[07Mar2025 03:53:22.668] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[07Mar2025 03:53:22.668] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[07Mar2025 03:53:22.668] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[07Mar2025 03:53:22.668] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[07Mar2025 03:53:22.668] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[07Mar2025 03:54:28.418] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 99.852s
+[07Mar2025 03:54:46.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 03:54:46.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 03:55:36.011] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[07Mar2025 03:55:36.011] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[07Mar2025 03:55:36.012] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[07Mar2025 03:55:36.012] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[07Mar2025 03:55:36.012] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[07Mar2025 03:55:36.012] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[07Mar2025 03:55:36.013] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[07Mar2025 03:56:29.808] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[07Mar2025 03:56:29.809] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[07Mar2025 03:59:08.174] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 103.587s
+[07Mar2025 03:59:18.911] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.VillagerMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[07Mar2025 03:59:18.911] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[07Mar2025 03:59:19.565] [Worker-Main-10/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 132.002s
+[07Mar2025 03:59:41.655] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:rain_frog
+[07Mar2025 03:59:46.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 03:59:46.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 04:03:14.149] [Server thread/DEBUG] [mixin/]: Mixing DamageHandlerMixin from vampiricageing.mixins.json into de.teamlapen.vampirism.util.DamageHandler
+[07Mar2025 04:04:04.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/entities/hunter_trainer
+[07Mar2025 04:04:29.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[07Mar2025 04:04:30.309] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[07Mar2025 04:04:31.514] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.947s
+[07Mar2025 04:04:42.813] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[07Mar2025 04:04:46.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 04:04:46.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 04:07:17.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Epsilon] Sahankiel0717271 has completed the challenge [Regicide]
+[07Mar2025 04:07:17.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/12901, l='ServerLevel[world]', x=-2927.02, y=120.00, z=-2227.39] died: Vampire Baron Level 5 was slain by [Epsilon] Sahankiel0717271

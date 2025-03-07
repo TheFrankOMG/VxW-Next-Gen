@@ -337,3 +337,8 @@ java.lang.Throwable: null
 [07Mar2025 03:47:22.237] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Sahankiel0717271'.
 [07Mar2025 03:47:22.240] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (82d420bf-eb70-4a1a-b718-7764a37d18c2)
 [07Mar2025 03:47:22.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82d420bf-eb70-4a1a-b718-7764a37d18c2 was loaded
+[07Mar2025 03:49:16.706] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[07Mar2025 03:49:16.706] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07Mar2025 03:49:16.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Settling In]
+[07Mar2025 04:07:17.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Epsilon] Sahankiel0717271 has completed the challenge [Regicide]
+[07Mar2025 04:07:17.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/12901, l='ServerLevel[world]', x=-2927.02, y=120.00, z=-2227.39] died: Vampire Baron Level 5 was slain by [Epsilon] Sahankiel0717271
