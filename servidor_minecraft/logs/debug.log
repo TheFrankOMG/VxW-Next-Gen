@@ -4490,3 +4490,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 19:53:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Pest Control]
 [08Mar2025 19:54:56.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Mar2025 19:54:56.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 19:59:56.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 19:59:56.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 20:01:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to Sahankiel0717271]
+[08Mar2025 20:04:56.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 20:04:56.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 20:06:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Next Generation]
+[08Mar2025 20:09:56.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 20:09:56.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 20:11:29.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[08Mar2025 20:11:29.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[08Mar2025 20:11:29.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[08Mar2025 20:11:29.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Noble]
+[08Mar2025 20:14:56.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 20:14:56.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
