@@ -285,3 +285,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 22:44:49.650] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
 [08Mar2025 22:44:49.851] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
 [08Mar2025 22:46:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[08Mar2025 22:54:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sunscreen to [Prince] Frank30331]
+[08Mar2025 22:59:55.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Trine'/1427, l='ServerLevel[world]', x=-843.91, y=66.00, z=862.89] died, message: 'Trine suffocated in a wall'
+[08Mar2025 22:59:55.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Trine'/1427, l='ServerLevel[world]', x=-843.91, y=66.00, z=862.89] died: Trine suffocated in a wall

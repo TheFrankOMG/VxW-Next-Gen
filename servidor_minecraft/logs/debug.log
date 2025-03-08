@@ -4604,3 +4604,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 22:48:16.781] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [08Mar2025 22:48:16.781] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [08Mar2025 22:48:16.783] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Mar2025 22:51:53.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 22:51:53.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 22:54:23.798] [Server thread/DEBUG] [mixin/]: Mixing DamageHandlerMixin from vampiricageing.mixins.json into de.teamlapen.vampirism.util.DamageHandler
+[08Mar2025 22:54:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sunscreen to [Prince] Frank30331]
+[08Mar2025 22:56:53.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 22:56:53.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 22:57:38.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[08Mar2025 22:59:55.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Trine'/1427, l='ServerLevel[world]', x=-843.91, y=66.00, z=862.89] died, message: 'Trine suffocated in a wall'
+[08Mar2025 22:59:55.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Trine'/1427, l='ServerLevel[world]', x=-843.91, y=66.00, z=862.89] died: Trine suffocated in a wall
