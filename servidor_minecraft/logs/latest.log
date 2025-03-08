@@ -434,3 +434,68 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 21:36:02.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Beta] Sahankiel0717271: Set own game mode to Spectator Mode]
 [08Mar2025 21:36:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
 [08Mar2025 21:36:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Beta] Sahankiel0717271 has made the advancement [Ghost! Ghost! Toast?]
+[08Mar2025 21:38:39.203] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[08Mar2025 21:38:39.252] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[08Mar2025 21:40:02.850] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[08Mar2025 21:40:02.860] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[08Mar2025 21:40:02.860] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[08Mar2025 21:40:02.874] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[08Mar2025 21:40:02.882] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[08Mar2025 21:40:02.883] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[08Mar2025 21:40:02.883] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[08Mar2025 21:40:02.883] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[08Mar2025 21:40:02.883] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[08Mar2025 21:40:03.708] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[08Mar2025 21:40:03.709] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[08Mar2025 21:40:03.709] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[08Mar2025 21:48:04.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Needa'/89045, l='ServerLevel[world]', x=2540.39, y=72.00, z=-2913.17] died, message: 'Needa hit the ground too hard whilst trying to escape Aarti'
+[08Mar2025 21:48:04.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Needa'/89045, l='ServerLevel[world]', x=2540.39, y=72.00, z=-2913.17] died: Needa was doomed to fall by Aarti
+[08Mar2025 21:48:10.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Aarti'/89498, l='ServerLevel[world]', x=2546.86, y=65.00, z=-2920.01] died, message: 'Aarti was slain by Vampire'
+[08Mar2025 21:48:10.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Aarti'/89498, l='ServerLevel[world]', x=2546.86, y=65.00, z=-2920.01] died: Aarti was slain by Vampire
+[08Mar2025 21:48:19.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Rajadurai'/89499, l='ServerLevel[world]', x=2572.53, y=64.00, z=-2911.00] died, message: 'Rajadurai hit the ground too hard whilst trying to escape Werewolf'
+[08Mar2025 21:48:19.064] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Rajadurai'/89499, l='ServerLevel[world]', x=2572.53, y=64.00, z=-2911.00] died: Rajadurai was doomed to fall by Werewolf
+[08Mar2025 21:48:22.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Jeyakumari'/88950, l='ServerLevel[world]', x=2550.81, y=63.00, z=-2956.50] died, message: 'Jeyakumari was slain by Jeyathevan'
+[08Mar2025 21:48:22.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Jeyakumari'/88950, l='ServerLevel[world]', x=2550.81, y=63.00, z=-2956.50] died: Jeyakumari was slain by Jeyathevan
+[08Mar2025 21:48:27.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Jeyathevan'/89496, l='ServerLevel[world]', x=2551.46, y=63.00, z=-2953.68] died, message: 'Jeyathevan was slain by Werewolf'
+[08Mar2025 21:48:27.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Jeyathevan'/89496, l='ServerLevel[world]', x=2551.46, y=63.00, z=-2953.68] died: Jeyathevan was slain by Werewolf
+[08Mar2025 21:48:37.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Jyoti'/89497, l='ServerLevel[world]', x=2490.93, y=63.00, z=-2904.25] died, message: 'Jyoti was slain by Vampire'
+[08Mar2025 21:48:37.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Jyoti'/89497, l='ServerLevel[world]', x=2490.93, y=63.00, z=-2904.25] died: Jyoti was slain by Vampire
+[08Mar2025 21:48:41.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Konika'/89046, l='ServerLevel[world]', x=2489.30, y=61.00, z=-2907.25] died, message: 'Konika was slain by Werewolf'
+[08Mar2025 21:48:41.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Konika'/89046, l='ServerLevel[world]', x=2489.30, y=61.00, z=-2907.25] died: Konika was slain by Werewolf
+[08Mar2025 21:48:43.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Ameeta'/89043, l='ServerLevel[world]', x=2488.12, y=61.00, z=-2907.48] died, message: 'Ameeta was slain by Werewolf'
+[08Mar2025 21:48:43.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Ameeta'/89043, l='ServerLevel[world]', x=2488.12, y=61.00, z=-2907.48] died: Ameeta was slain by Werewolf
+[08Mar2025 21:50:22.026] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[08Mar2025 21:50:26.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.39.140.190:47847] logged in with entity id 90003 at (-2205.300000011921, 34.0, -6055.66593071551)
+[08Mar2025 21:50:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 joined the game
+[08Mar2025 21:50:26.827] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Prince] Frank30331'.
+[08Mar2025 21:50:26.828] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[08Mar2025 21:50:43.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Chanchal'/89089, l='ServerLevel[world]', x=2574.05, y=86.00, z=-2894.40] died, message: 'Chanchal was slain by Sahankiel0717271'
+[08Mar2025 21:50:43.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Chanchal'/89089, l='ServerLevel[world]', x=2574.05, y=86.00, z=-2894.40] died: Chanchal was slain by Sahankiel0717271
+[08Mar2025 21:50:55.346] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[08Mar2025 21:50:56.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[08Mar2025 21:50:56.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 left the game
+[08Mar2025 21:50:56.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[08Mar2025 21:50:56.876] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Mar2025 21:51:08.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Meeta'/89144, l='ServerLevel[world]', x=2592.48, y=65.00, z=-2966.14] died, message: 'Meeta was shot by Sahankiel0717271'
+[08Mar2025 21:51:08.621] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Meeta'/89144, l='ServerLevel[world]', x=2592.48, y=65.00, z=-2966.14] died: Meeta was shot by Sahankiel0717271
+[08Mar2025 21:51:13.322] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[08Mar2025 21:51:15.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.39.140.190:36551] logged in with entity id 90832 at (-2205.300000011921, 34.0, -6055.66593071551)
+[08Mar2025 21:51:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 joined the game
+[08Mar2025 21:51:15.846] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Prince] Frank30331'.
+[08Mar2025 21:51:15.846] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[08Mar2025 21:51:16.070] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[08Mar2025 21:51:38.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Sanjulata'/89087, l='ServerLevel[world]', x=2507.24, y=62.14, z=-2947.72] died, message: 'Sanjulata was shot by Sahankiel0717271'
+[08Mar2025 21:51:38.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Sanjulata'/89087, l='ServerLevel[world]', x=2507.24, y=62.14, z=-2947.72] died: Sanjulata was shot by Sahankiel0717271
+[08Mar2025 21:55:05.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Maia'/94545, l='ServerLevel[world]', x=-1467.43, y=80.00, z=1287.27] died, message: 'Maia was slain by Werewolf'
+[08Mar2025 21:55:05.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Maia'/94545, l='ServerLevel[world]', x=-1467.43, y=80.00, z=1287.27] died: Maia was slain by Werewolf
+[08Mar2025 21:55:10.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Baltazar'/94544, l='ServerLevel[world]', x=-1467.50, y=80.00, z=1286.50] died, message: 'Baltazar was slain by Werewolf'
+[08Mar2025 21:55:10.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Baltazar'/94544, l='ServerLevel[world]', x=-1467.50, y=80.00, z=1286.50] died: Baltazar was slain by Werewolf
+[08Mar2025 21:56:01.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Timed out
+[08Mar2025 21:56:01.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 left the game
+[08Mar2025 21:56:01.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[08Mar2025 21:56:29.893] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[08Mar2025 21:56:32.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.39.140.190:52915] logged in with entity id 95251 at (-2150.651440803804, -40.0, -5988.300000011921)
+[08Mar2025 21:56:32.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 joined the game
+[08Mar2025 21:56:32.522] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Prince] Frank30331'.
+[08Mar2025 21:56:32.523] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[08Mar2025 21:56:33.917] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded

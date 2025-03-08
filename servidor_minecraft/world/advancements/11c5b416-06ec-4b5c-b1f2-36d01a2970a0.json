@@ -7111,12 +7111,6 @@
     },
     "done": true
   },
-  "mca:baby": {
-    "criteria": {
-      "baby": "2025-03-08 20:06:34 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
     "criteria": {
       "has_coffin": "2025-03-08 19:03:34 +0000"
@@ -7126,18 +7120,6 @@
   "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
     "criteria": {
       "has_coffin": "2025-03-08 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-03-08 19:30:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-03-08 19:58:15 +0000"
     },
     "done": true
   },
@@ -7153,13 +7135,25 @@
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
+  "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
     "criteria": {
-      "has_item": "2025-03-08 19:30:40 +0000"
+      "has_coffin": "2025-03-08 19:03:34 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
+  "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
     "criteria": {
       "has_coffin": "2025-03-08 19:03:34 +0000"
     },
@@ -7171,27 +7165,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
-    "criteria": {
-      "has_coffin": "2025-03-08 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
-    "criteria": {
-      "rat_upgrade_basic": "2025-03-08 19:53:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-03-08 19:17:50 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
-    "criteria": {
-      "has_coffin": "2025-03-08 19:03:34 +0000"
     },
     "done": true
   },
@@ -7201,15 +7177,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-08 19:30:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-03-08 19:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-08 19:30:40 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
-      "has_coffin": "2025-03-08 19:03:34 +0000"
+      "rat_upgrade_basic": "2025-03-08 19:53:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-08 19:58:15 +0000"
+    },
+    "done": true
+  },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-03-08 20:06:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-03-08 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 21:52:59 +0000"
     },
     "done": true
   },
