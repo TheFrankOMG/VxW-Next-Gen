@@ -219,6 +219,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-24 22:13:17 +0000",
       "chicken": "2025-02-24 23:02:56 +0000",
+      "honey_bottle": "2025-03-08 19:04:01 +0000",
       "cooked_mutton": "2025-02-24 21:47:58 +0000",
       "sweet_berries": "2025-02-24 04:00:26 +0000",
       "cooked_beef": "2025-02-24 22:03:34 +0000",
@@ -5413,6 +5414,30 @@
   "dungeons_arise:find_shiraz_palace": {
     "criteria": {
       "location0": "2025-03-08 01:30:47 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-03-08 02:26:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-08 19:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-08 19:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-08 19:03:58 +0000"
     },
     "done": true
   },

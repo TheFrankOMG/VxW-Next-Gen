@@ -7056,21 +7056,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_glazed_terracotta": {
-    "criteria": {
-      "has_purple_terracotta": "2025-03-08 01:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-03-08 01:38:31 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_shiraz_palace": {
     "criteria": {
       "location0": "2025-03-08 01:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-03-08 01:36:40 +0000"
     },
     "done": true
   },
@@ -7098,15 +7092,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_sunflower": "2025-03-08 01:56:26 +0000"
+      "has_rose_bush": "2025-03-08 01:38:31 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-03-08 01:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-08 01:56:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
+    "criteria": {
+      "has_coffin": "2025-03-08 19:03:34 +0000"
     },
     "done": true
   },
