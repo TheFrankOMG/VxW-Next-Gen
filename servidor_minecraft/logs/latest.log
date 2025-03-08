@@ -15,3 +15,14 @@
 [08Mar2025 00:11:35.414] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
 [08Mar2025 00:17:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Beta] Sahankiel0717271: Set own game mode to Creative Mode]
 [08Mar2025 00:18:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Beta] Sahankiel0717271: Set own game mode to Survival Mode]
+[08Mar2025 00:29:07.590] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[08Mar2025 00:29:10.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.13.192.28:50825] logged in with entity id 21358 at (2433.1495577076475, -41.0, -2570.921015237025)
+[08Mar2025 00:29:10.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 joined the game
+[08Mar2025 00:29:10.259] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Prince] Frank30331'.
+[08Mar2025 00:29:10.261] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[08Mar2025 00:29:10.488] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
+[08Mar2025 00:29:19.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to [Beta] Sahankiel0717271]
+[08Mar2025 00:30:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Chest Slayer]
+[08Mar2025 00:31:29.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to [Beta] Sahankiel0717271]
+[08Mar2025 00:32:42.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Summoned new Zoglin]
+[08Mar2025 00:33:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to [Beta] Sahankiel0717271]
