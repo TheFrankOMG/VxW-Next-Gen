@@ -422,3 +422,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 21:09:41.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Đurđica'/69998, l='ServerLevel[world]', x=3981.16, y=65.00, z=-2016.84] died: Đurđica was slain by Werewolf
 [08Mar2025 21:10:18.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Josip'/69996, l='ServerLevel[world]', x=3967.51, y=64.00, z=-2013.52] died, message: 'Josip was slain by Werewolf'
 [08Mar2025 21:10:18.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Josip'/69996, l='ServerLevel[world]', x=3967.51, y=64.00, z=-2013.52] died: Josip was slain by Werewolf
+[08Mar2025 21:24:21.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Beta] Sahankiel0717271 has completed the challenge [Just a Flesh Wound]
