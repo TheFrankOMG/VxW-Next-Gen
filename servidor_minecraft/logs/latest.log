@@ -504,3 +504,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 22:04:48.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! 675.0532657476576,-13.4375,-196.30462094405016
 [08Mar2025 22:13:32.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! 676.6999999880791,-14.4375,-198.91389083635931
 [08Mar2025 22:17:02.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! 680.6564953095374,-16.4375,-199.07121165739363
+[08Mar2025 22:24:31.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[08Mar2025 22:25:22.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[08Mar2025 22:25:55.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Another Brick in the Wall]

@@ -5459,6 +5459,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-03-08 22:19:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
+    "criteria": {
+      "has_dragonscale_amythest": "2025-03-08 22:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-03-08 20:30:08 +0000"
