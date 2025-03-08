@@ -423,3 +423,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 21:10:18.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Josip'/69996, l='ServerLevel[world]', x=3967.51, y=64.00, z=-2013.52] died, message: 'Josip was slain by Werewolf'
 [08Mar2025 21:10:18.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Josip'/69996, l='ServerLevel[world]', x=3967.51, y=64.00, z=-2013.52] died: Josip was slain by Werewolf
 [08Mar2025 21:24:21.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Beta] Sahankiel0717271 has completed the challenge [Just a Flesh Wound]
+[08Mar2025 21:33:27.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Beta] Sahankiel0717271: Set own game mode to Spectator Mode]
+[08Mar2025 21:34:10.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
+[08Mar2025 21:34:34.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Beta] Sahankiel0717271: Set own game mode to Spectator Mode]
+[08Mar2025 21:34:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
+[08Mar2025 21:35:00.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Spectator Mode]
+[08Mar2025 21:35:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
+[08Mar2025 21:35:48.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Beta] Sahankiel0717271: Set own game mode to Spectator Mode]
+[08Mar2025 21:35:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
+[08Mar2025 21:36:02.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Beta] Sahankiel0717271: Set own game mode to Spectator Mode]
+[08Mar2025 21:36:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
+[08Mar2025 21:36:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Beta] Sahankiel0717271 has made the advancement [Ghost! Ghost! Toast?]
