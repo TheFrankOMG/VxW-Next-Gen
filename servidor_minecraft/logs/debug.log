@@ -4667,3 +4667,108 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 20:55:02.850] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 53.72 and blood value 15 for entity iceandfire:myrmex_royal
 [08Mar2025 20:55:02.850] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 53.72 and blood value 15 for entity iceandfire:myrmex_royal
 [08Mar2025 20:55:02.898] [Worker-Main-14/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 90.355s
+[08Mar2025 20:56:32.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Mar2025 20:56:49.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[08Mar2025 20:57:09.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08Mar2025 20:57:21.802] [Worker-Main-15/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 139.236s
+[08Mar2025 20:57:23.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! -21.379091933008795,10.5625,100.19372486674172
+[08Mar2025 20:57:33.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vibeke'/59267, l='ServerLevel[world]', x=-687.72, y=67.00, z=917.87] died, message: 'Vibeke suffocated in a wall'
+[08Mar2025 20:57:33.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vibeke'/59267, l='ServerLevel[world]', x=-687.72, y=67.00, z=917.87] died: Vibeke suffocated in a wall
+[08Mar2025 20:57:54.128] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity alexsmobs:jerboa
+[08Mar2025 20:58:39.624] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=4871, y=64, z=-1478} with badomen level -1
+[08Mar2025 20:58:44.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[08Mar2025 20:58:56.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Reija'/61449, l='ServerLevel[world]', x=4890.29, y=62.94, z=-1480.33] died, message: 'Reija was slain by Werewolf'
+[08Mar2025 20:58:56.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Reija'/61449, l='ServerLevel[world]', x=4890.29, y=62.94, z=-1480.33] died: Reija was slain by Werewolf
+[08Mar2025 21:00:05.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:00:05.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:01:13.282] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Anja}[style={}] has been infected
+[08Mar2025 21:01:16.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anja'/59886, l='ServerLevel[world]', x=-2082.28, y=89.00, z=-5935.48] died, message: 'Anja was slain by Zombie'
+[08Mar2025 21:01:16.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anja'/59886, l='ServerLevel[world]', x=-2082.28, y=89.00, z=-5935.48] died: Anja was slain by Zombie
+[08Mar2025 21:01:25.722] [Worker-Main-15/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 167.932s
+[08Mar2025 21:02:24.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Eivor'/59843, l='ServerLevel[world]', x=-2158.73, y=73.00, z=-5884.77] died, message: 'Eivor was slain by Vindicator'
+[08Mar2025 21:02:24.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Eivor'/59843, l='ServerLevel[world]', x=-2158.73, y=73.00, z=-5884.77] died: Eivor was slain by Vindicator
+[08Mar2025 21:02:35.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Börge'/59840, l='ServerLevel[world]', x=-2154.70, y=75.23, z=-5905.87] died, message: 'Börge was slain by Vindicator'
+[08Mar2025 21:02:35.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Börge'/59840, l='ServerLevel[world]', x=-2154.70, y=75.23, z=-5905.87] died: Börge was slain by Vindicator
+[08Mar2025 21:04:18.285] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.86 and blood value 15 for entity minecraft:camel
+[08Mar2025 21:04:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Teleported Sahankiel0717271 to -3045.500000, 68.000000, -2445.500000]
+[08Mar2025 21:04:38.625] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[08Mar2025 21:04:39.609] [Worker-Main-15/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.822s
+[08Mar2025 21:05:05.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:05:05.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:07:44.885] [Worker-Main-20/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 146.085s
+[08Mar2025 21:08:07.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[08Mar2025 21:08:07.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 left the game
+[08Mar2025 21:08:07.330] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[08Mar2025 21:08:17.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_elite_0
+[08Mar2025 21:08:17.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_12
+[08Mar2025 21:08:17.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_14
+[08Mar2025 21:08:17.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_tower_1
+[08Mar2025 21:08:17.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_16
+[08Mar2025 21:08:17.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_4
+[08Mar2025 21:08:18.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_22
+[08Mar2025 21:08:18.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_10
+[08Mar2025 21:08:18.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_2
+[08Mar2025 21:08:18.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_1
+[08Mar2025 21:08:18.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_tower_0
+[08Mar2025 21:08:18.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_0
+[08Mar2025 21:08:18.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_17
+[08Mar2025 21:08:18.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_9
+[08Mar2025 21:08:18.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_1
+[08Mar2025 21:08:18.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_library_0
+[08Mar2025 21:08:18.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_15
+[08Mar2025 21:08:18.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_exterior_0
+[08Mar2025 21:08:18.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_exterior_1
+[08Mar2025 21:08:18.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_5
+[08Mar2025 21:08:18.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_1
+[08Mar2025 21:08:18.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_3
+[08Mar2025 21:08:18.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_7
+[08Mar2025 21:08:18.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_19
+[08Mar2025 21:08:18.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_25
+[08Mar2025 21:08:18.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_23
+[08Mar2025 21:08:18.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_21
+[08Mar2025 21:08:19.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_11
+[08Mar2025 21:08:19.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_illusion_0
+[08Mar2025 21:08:19.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_crossbow_illusion_1
+[08Mar2025 21:08:19.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_0
+[08Mar2025 21:08:19.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_0
+[08Mar2025 21:08:19.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_2
+[08Mar2025 21:08:19.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_8
+[08Mar2025 21:08:19.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_6
+[08Mar2025 21:08:19.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_20
+[08Mar2025 21:08:19.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_24
+[08Mar2025 21:08:19.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_18
+[08Mar2025 21:08:19.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_26
+[08Mar2025 21:08:19.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! -17.5119431586254,-1.2514932166822064,-1.2421730190483231
+[08Mar2025 21:08:50.514] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=3991, y=72, z=-2012} with badomen level -1
+[08Mar2025 21:09:02.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Franjka'/70002, l='ServerLevel[world]', x=3998.47, y=72.00, z=-2013.71] died, message: 'Franjka was slain by Werewolf'
+[08Mar2025 21:09:02.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Franjka'/70002, l='ServerLevel[world]', x=3998.47, y=72.00, z=-2013.71] died: Franjka was slain by Werewolf
+[08Mar2025 21:09:05.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Katica'/70001, l='ServerLevel[world]', x=4016.54, y=66.00, z=-2011.77] died, message: 'Katica was slain by Werewolf'
+[08Mar2025 21:09:05.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Katica'/70001, l='ServerLevel[world]', x=4016.54, y=66.00, z=-2011.77] died: Katica was slain by Werewolf
+[08Mar2025 21:09:08.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Mate'/70007, l='ServerLevel[world]', x=4014.54, y=65.00, z=-2016.07] died, message: 'Mate was slain by Werewolf'
+[08Mar2025 21:09:08.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Mate'/70007, l='ServerLevel[world]', x=4014.54, y=65.00, z=-2016.07] died: Mate was slain by Werewolf
+[08Mar2025 21:09:12.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Dubravka'/70000, l='ServerLevel[world]', x=3989.35, y=63.00, z=-2039.57] died, message: 'Dubravka was slain by Werewolf'
+[08Mar2025 21:09:12.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Dubravka'/70000, l='ServerLevel[world]', x=3989.35, y=63.00, z=-2039.57] died: Dubravka was slain by Werewolf
+[08Mar2025 21:09:15.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Tomo'/70003, l='ServerLevel[world]', x=4017.58, y=66.00, z=-2012.31] died, message: 'Tomo was slain by Werewolf'
+[08Mar2025 21:09:15.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Tomo'/70003, l='ServerLevel[world]', x=4017.58, y=66.00, z=-2012.31] died: Tomo was slain by Werewolf
+[08Mar2025 21:09:22.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Miho'/70004, l='ServerLevel[world]', x=4010.50, y=66.00, z=-2021.00] died, message: 'Miho was slain by Werewolf'
+[08Mar2025 21:09:22.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Miho'/70004, l='ServerLevel[world]', x=4010.50, y=66.00, z=-2021.00] died: Miho was slain by Werewolf
+[08Mar2025 21:09:22.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Sandra'/70005, l='ServerLevel[world]', x=4018.75, y=65.00, z=-2012.76] died, message: 'Sandra was slain by Werewolf'
+[08Mar2025 21:09:22.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Sandra'/70005, l='ServerLevel[world]', x=4018.75, y=65.00, z=-2012.76] died: Sandra was slain by Werewolf
+[08Mar2025 21:09:23.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Vjeran'/70006, l='ServerLevel[world]', x=4010.34, y=65.00, z=-2017.60] died, message: 'Vjeran was slain by Werewolf'
+[08Mar2025 21:09:23.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Vjeran'/70006, l='ServerLevel[world]', x=4010.34, y=65.00, z=-2017.60] died: Vjeran was slain by Werewolf
+[08Mar2025 21:09:25.124] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Ivana'/69999, l='ServerLevel[world]', x=3996.78, y=65.38, z=-2026.72] died, message: 'Ivana was slain by Barica'
+[08Mar2025 21:09:25.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Ivana'/69999, l='ServerLevel[world]', x=3996.78, y=65.38, z=-2026.72] died: Ivana was slain by Barica
+[08Mar2025 21:09:30.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Barica'/69997, l='ServerLevel[world]', x=3998.50, y=65.00, z=-2026.11] died, message: 'Barica was slain by Elizabeta'
+[08Mar2025 21:09:30.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Barica'/69997, l='ServerLevel[world]', x=3998.50, y=65.00, z=-2026.11] died: Barica was slain by Elizabeta
+[08Mar2025 21:09:39.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Ivka'/69995, l='ServerLevel[world]', x=3994.20, y=65.00, z=-2028.59] died, message: 'Ivka was slain by Werewolf'
+[08Mar2025 21:09:39.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Ivka'/69995, l='ServerLevel[world]', x=3994.20, y=65.00, z=-2028.59] died: Ivka was slain by Werewolf
+[08Mar2025 21:09:41.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Đurđica'/69998, l='ServerLevel[world]', x=3981.16, y=65.00, z=-2016.84] died, message: 'Đurđica was slain by Werewolf'
+[08Mar2025 21:09:41.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Đurđica'/69998, l='ServerLevel[world]', x=3981.16, y=65.00, z=-2016.84] died: Đurđica was slain by Werewolf
+[08Mar2025 21:10:05.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:10:05.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:10:07.548] [Worker-Main-14/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 189.651s
+[08Mar2025 21:10:18.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Josip'/69996, l='ServerLevel[world]', x=3967.51, y=64.00, z=-2013.52] died, message: 'Josip was slain by Werewolf'
+[08Mar2025 21:10:18.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Josip'/69996, l='ServerLevel[world]', x=3967.51, y=64.00, z=-2013.52] died: Josip was slain by Werewolf
+[08Mar2025 21:12:00.703] [Worker-Main-20/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 224.923s
+[08Mar2025 21:15:05.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:15:05.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
