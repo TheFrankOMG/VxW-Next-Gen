@@ -7098,5 +7098,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-08 01:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-03-08 01:56:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
