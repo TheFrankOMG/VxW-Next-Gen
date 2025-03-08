@@ -5543,15 +5543,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-03-08 23:10:42 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
       "has_dragon_bone_block": "2025-03-08 23:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 23:10:42 +0000"
     },
     "done": true
   },
