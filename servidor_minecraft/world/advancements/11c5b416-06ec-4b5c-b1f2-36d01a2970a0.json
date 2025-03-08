@@ -7140,15 +7140,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-08 19:17:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
     "criteria": {
       "has_coffin": "2025-03-08 19:03:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-08 19:17:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
     "criteria": {
       "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-08 19:17:50 +0000"
     },
     "done": true
   },
