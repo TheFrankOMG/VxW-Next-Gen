@@ -5429,54 +5429,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-03-08 20:30:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-03-08 20:30:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
-    "criteria": {
-      "ghostly_pickaxe": "2025-03-08 21:36:22 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
-    "criteria": {
-      "ferrous_wroughtnaut": "2025-03-08 21:24:21 +0000"
-    },
-    "done": true
-  },
-  "mca:noble": {
-    "criteria": {
-      "baby": "2025-03-08 20:11:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
-    "criteria": {
-      "has_dragonscale_red": "2025-03-08 22:19:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
-    "criteria": {
-      "has_dragonscale_amythest": "2025-03-08 22:21:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-03-08 20:30:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-03-08 19:03:58 +0000"
@@ -5492,6 +5444,102 @@
   "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
       "rat_upgrade_basic": "2025-03-08 19:50:50 +0000"
+    },
+    "done": true
+  },
+  "mca:noble": {
+    "criteria": {
+      "baby": "2025-03-08 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-03-08 20:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-03-08 20:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-08 20:30:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-03-08 21:24:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-03-08 21:36:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-03-08 22:19:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
+    "criteria": {
+      "has_dragonscale_amythest": "2025-03-08 22:21:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_input": {
+    "criteria": {
+      "has_item": "2025-03-08 22:25:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_core_disabled": {
+    "criteria": {
+      "has_item": "2025-03-08 22:25:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-03-08 22:25:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-03-08 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2025-03-08 22:33:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
+    "criteria": {
+      "has_dragonscale_copper": "2025-03-08 22:33:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
+    "criteria": {
+      "has_dragonscale_electric": "2025-03-08 22:33:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
+    "criteria": {
+      "has_dragonscale_black": "2025-03-08 22:33:18 +0000"
     },
     "done": true
   },

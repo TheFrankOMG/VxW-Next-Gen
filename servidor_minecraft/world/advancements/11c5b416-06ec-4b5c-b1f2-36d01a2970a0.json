@@ -7243,5 +7243,47 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-03-08 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-03-08 22:31:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
+    "criteria": {
+      "has_dragonscale_electric": "2025-03-08 22:34:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
+    "criteria": {
+      "has_dragonscale_copper": "2025-03-08 22:42:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2025-03-08 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
+    "criteria": {
+      "has_dragonscale_black": "2025-03-08 22:42:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
+    "criteria": {
+      "has_dragonscale_amythest": "2025-03-08 22:43:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
