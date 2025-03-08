@@ -307,3 +307,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 19:32:11.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Johanne'/7373, l='ServerLevel[world]', x=-782.09, y=39.00, z=959.41] died: Johanne tried to swim in lava
 [08Mar2025 19:39:53.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Thure'/8649, l='ServerLevel[world]', x=-811.02, y=72.56, z=1059.72] died, message: 'Thure was sucked dry fighting [Prince] Frank30331'
 [08Mar2025 19:41:39.376] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-743, y=76, z=963}
+[08Mar2025 19:50:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Pest Control]
+[08Mar2025 19:53:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Pest Control]

@@ -5441,5 +5441,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-03-08 19:50:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
