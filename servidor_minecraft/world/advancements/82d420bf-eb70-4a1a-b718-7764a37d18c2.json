@@ -5374,6 +5374,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-03-08 00:04:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-03-07 23:32:09 +0000"

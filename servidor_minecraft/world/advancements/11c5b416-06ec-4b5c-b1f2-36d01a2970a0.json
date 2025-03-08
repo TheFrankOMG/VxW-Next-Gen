@@ -70,6 +70,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-02-24 23:39:08 +0000",
       "minecraft:flower_forest": "2025-02-24 03:31:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-24 23:27:48 +0000",
+      "minecraft:deep_dark": "2025-03-08 00:10:03 +0000",
       "minecraft:meadow": "2025-02-25 05:13:26 +0000",
       "minecraft:savanna": "2025-02-24 19:36:07 +0000",
       "minecraft:plains": "2025-02-24 03:37:32 +0000"
@@ -6959,21 +6960,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-03-07 23:09:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-07 22:37:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2025-03-07 22:59:01 +0000"
     },
     "done": true
   },
@@ -7007,9 +6996,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-03-07 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-07 23:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-03-07 23:09:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-03-08 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 00:08:57 +0000"
     },
     "done": true
   },
