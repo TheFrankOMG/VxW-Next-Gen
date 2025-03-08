@@ -288,3 +288,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 22:54:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sunscreen to [Prince] Frank30331]
 [08Mar2025 22:59:55.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Trine'/1427, l='ServerLevel[world]', x=-843.91, y=66.00, z=862.89] died, message: 'Trine suffocated in a wall'
 [08Mar2025 22:59:55.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Trine'/1427, l='ServerLevel[world]', x=-843.91, y=66.00, z=862.89] died: Trine suffocated in a wall
+[08Mar2025 23:12:05.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[08Mar2025 23:12:28.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[08Mar2025 23:17:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Summoned new Frog]
