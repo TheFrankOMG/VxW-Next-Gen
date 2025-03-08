@@ -303,3 +303,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 19:10:03.532] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-72, y=3, z=55}
 [08Mar2025 19:10:03.533] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-72, y=4, z=55}
 [08Mar2025 19:14:08.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Mar2025 19:32:11.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Johanne'/7373, l='ServerLevel[world]', x=-782.09, y=39.00, z=959.41] died, message: 'Johanne tried to swim in lava'
+[08Mar2025 19:32:11.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Johanne'/7373, l='ServerLevel[world]', x=-782.09, y=39.00, z=959.41] died: Johanne tried to swim in lava

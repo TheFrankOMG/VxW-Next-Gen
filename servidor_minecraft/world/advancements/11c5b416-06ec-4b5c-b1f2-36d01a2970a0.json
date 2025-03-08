@@ -7122,6 +7122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-08 19:30:40 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
     "criteria": {
       "has_coffin": "2025-03-08 19:03:34 +0000"
@@ -7131,6 +7137,12 @@
   "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
     "criteria": {
       "has_coffin": "2025-03-08 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-03-08 19:30:40 +0000"
     },
     "done": true
   },
@@ -7167,6 +7179,12 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-03-08 19:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-08 19:30:40 +0000"
     },
     "done": true
   },
