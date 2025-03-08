@@ -269,3 +269,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 00:47:57.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Spectator Mode]
 [08Mar2025 00:48:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Stone Free]
 [08Mar2025 00:49:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[08Mar2025 00:52:33.290] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sahankiel071727 is 82d420bf-eb70-4a1a-b718-7764a37d18c2
+[08Mar2025 00:52:35.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.140.107.191:50137] logged in with entity id 2271 at (2472.3891086273984, -54.0, -2626.4502540729195)
+[08Mar2025 00:52:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 joined the game
+[08Mar2025 00:52:35.844] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Beta] Sahankiel0717271'.
+[08Mar2025 00:52:35.844] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (82d420bf-eb70-4a1a-b718-7764a37d18c2)
+[08Mar2025 00:52:36.653] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82d420bf-eb70-4a1a-b718-7764a37d18c2 was loaded
+[08Mar2025 00:53:53.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set the weather to rain]

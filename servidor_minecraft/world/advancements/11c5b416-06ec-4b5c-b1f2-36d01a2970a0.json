@@ -7050,5 +7050,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2025-03-08 00:48:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

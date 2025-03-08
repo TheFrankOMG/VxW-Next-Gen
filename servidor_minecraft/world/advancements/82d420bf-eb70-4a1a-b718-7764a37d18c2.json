@@ -5326,9 +5326,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "dungeons_arise:find_heavenly_rider": {
     "criteria": {
-      "has_smooth_stone": "2025-03-07 23:34:48 +0000"
+      "location0": "2025-03-07 23:27:56 +0000"
     },
     "done": true
   },
@@ -5350,9 +5350,21 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_rider": {
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
-      "location0": "2025-03-07 23:27:56 +0000"
+      "has_item": "2025-03-07 23:32:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-03-07 23:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-07 23:34:48 +0000"
     },
     "done": true
   },
@@ -5368,21 +5380,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-07 23:32:09 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-03-08 00:04:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
-    "criteria": {
-      "has_item": "2025-03-07 23:32:09 +0000"
     },
     "done": true
   },
