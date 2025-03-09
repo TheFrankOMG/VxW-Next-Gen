@@ -299,3 +299,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Mar2025 01:04:20.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
 [09Mar2025 01:04:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 left the game
 [09Mar2025 01:04:20.788] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[09Mar2025 01:11:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 01:11:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sstop<--[HERE]
