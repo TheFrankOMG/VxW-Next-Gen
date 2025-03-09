@@ -7369,18 +7369,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-09 00:46:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-09 00:46:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-03-09 00:46:25 +0000"
@@ -7393,9 +7381,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
+  "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
-      "has_red_terracotta": "2025-03-09 00:46:33 +0000"
+      "has_terracotta": "2025-03-09 00:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-09 00:46:31 +0000"
     },
     "done": true
   },
@@ -7414,12 +7408,6 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-09 00:46:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2025-03-09 00:46:33 +0000"
     },
     "done": true
   },
@@ -7486,6 +7474,18 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-09 00:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-03-09 00:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-03-09 00:46:33 +0000"
     },
     "done": true
   },
