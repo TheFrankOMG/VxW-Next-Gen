@@ -7303,5 +7303,71 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2025-03-09 00:12:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
