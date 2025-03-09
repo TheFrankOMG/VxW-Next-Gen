@@ -4497,3 +4497,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Mar2025 00:57:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
 [09Mar2025 00:57:14.052] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:rain_frog
 [09Mar2025 00:57:43.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/savanna/houses/savanna_temple_2
+[09Mar2025 00:59:13.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 00:59:13.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 00:59:58.746] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 297.95s
+[09Mar2025 01:00:33.163] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=4395, y=77, z=-1630} with badomen level 0
+[09Mar2025 01:00:57.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
+[09Mar2025 01:00:57.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alpha] Sahankiel0717271 left the game
+[09Mar2025 01:00:57.409] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82d420bf-eb70-4a1a-b718-7764a37d18c2 was unloaded
+[09Mar2025 01:01:09.409] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 198.598s
+[09Mar2025 01:04:13.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 01:04:13.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 01:04:20.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[09Mar2025 01:04:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 left the game
+[09Mar2025 01:04:20.788] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[09Mar2025 01:09:13.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 01:09:13.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
