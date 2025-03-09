@@ -5585,15 +5585,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2025-03-08 23:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-03-09 00:23:20 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_mining_system": {
+  "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
-      "location0": "2025-03-08 23:54:14 +0000"
+      "killed": "2025-03-09 00:32:44 +0000"
     },
     "done": true
   },
