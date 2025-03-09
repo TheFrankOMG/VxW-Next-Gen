@@ -283,3 +283,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Mar2025 00:41:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Frank3033 is now age 1]
 [09Mar2025 00:41:07.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Frank3033 is now age 0]
 [09Mar2025 00:41:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Alpha] Sahankiel0717271: Teleported [Alpha] Sahankiel0717271 to [Prince] Frank30331]
+[09Mar2025 00:50:52.045] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Kris}[style={}] has been infected
+[09Mar2025 00:51:32.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kris'/8729, l='ServerLevel[world]', x=4368.28, y=49.17, z=-1608.53] died, message: 'Kris was shot by Skeleton'
+[09Mar2025 00:51:32.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kris'/8729, l='ServerLevel[world]', x=4368.28, y=49.17, z=-1608.53] died: Kris was shot by Skeleton
+[09Mar2025 00:51:44.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Leo'/7710, l='ServerLevel[world]', x=4397.63, y=73.00, z=-1582.19] died, message: 'Leo was shot by Pillager'
+[09Mar2025 00:51:44.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Leo'/7710, l='ServerLevel[world]', x=4397.63, y=73.00, z=-1582.19] died: Leo was shot by Pillager
+[09Mar2025 00:53:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to [Alpha] Sahankiel0717271]
+[09Mar2025 00:55:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[09Mar2025 00:55:56.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Spectator Mode]
+[09Mar2025 00:56:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[09Mar2025 00:57:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]

@@ -4450,3 +4450,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Mar2025 00:47:13.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
 [09Mar2025 00:47:41.145] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.VillagerMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
 [09Mar2025 00:47:41.145] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Mar2025 00:49:13.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 00:49:13.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 00:49:19.007] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 166.186s
+[09Mar2025 00:50:52.045] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Kris}[style={}] has been infected
+[09Mar2025 00:51:32.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kris'/8729, l='ServerLevel[world]', x=4368.28, y=49.17, z=-1608.53] died, message: 'Kris was shot by Skeleton'
+[09Mar2025 00:51:32.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kris'/8729, l='ServerLevel[world]', x=4368.28, y=49.17, z=-1608.53] died: Kris was shot by Skeleton
+[09Mar2025 00:51:38.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[09Mar2025 00:51:38.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[09Mar2025 00:51:38.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[09Mar2025 00:51:38.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[09Mar2025 00:51:38.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[09Mar2025 00:51:38.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[09Mar2025 00:51:38.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[09Mar2025 00:51:38.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[09Mar2025 00:51:38.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[09Mar2025 00:51:38.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[09Mar2025 00:51:38.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[09Mar2025 00:51:38.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[09Mar2025 00:51:38.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[09Mar2025 00:51:44.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Leo'/7710, l='ServerLevel[world]', x=4397.63, y=73.00, z=-1582.19] died, message: 'Leo was shot by Pillager'
+[09Mar2025 00:51:44.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Leo'/7710, l='ServerLevel[world]', x=4397.63, y=73.00, z=-1582.19] died: Leo was shot by Pillager
+[09Mar2025 00:51:56.657] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 220.85s
+[09Mar2025 00:52:15.770] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[09Mar2025 00:52:15.781] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[09Mar2025 00:52:15.799] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[09Mar2025 00:52:15.809] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[09Mar2025 00:52:15.826] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[09Mar2025 00:53:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to [Alpha] Sahankiel0717271]
+[09Mar2025 00:54:13.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 00:54:13.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 00:55:00.751] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 10.94 and blood value 15 for entity iceandfire:myrmex_soldier
+[09Mar2025 00:55:00.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.36 and blood value 0 for entity iceandfire:myrmex_sentinel
+[09Mar2025 00:55:00.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.83 and blood value 15 for entity iceandfire:myrmex_worker
+[09Mar2025 00:55:00.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.37 and blood value 9 for entity iceandfire:myrmex_soldier
+[09Mar2025 00:55:00.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[09Mar2025 00:55:00.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[09Mar2025 00:55:00.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[09Mar2025 00:55:00.794] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[09Mar2025 00:55:01.999] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.83 and blood value 15 for entity iceandfire:myrmex_worker
+[09Mar2025 00:55:01.999] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 15.64 and blood value 0 for entity iceandfire:myrmex_queen
+[09Mar2025 00:55:01.999] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[09Mar2025 00:55:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[09Mar2025 00:55:56.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Spectator Mode]
+[09Mar2025 00:56:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[09Mar2025 00:57:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[09Mar2025 00:57:14.052] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:rain_frog
+[09Mar2025 00:57:43.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/savanna/houses/savanna_temple_2
