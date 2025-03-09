@@ -1,3 +1,12 @@
 [09Mar2025 00:03:58.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sunscreen to [Prince] Frank30331]
 [09Mar2025 00:11:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set the time to 1000]
 [09Mar2025 00:12:44.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Forged in Flame]
+[09Mar2025 00:19:40.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[09Mar2025 00:19:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 left the game
+[09Mar2025 00:19:40.272] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was unloaded
+[09Mar2025 00:19:50.414] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Frank3033 is 11c5b416-06ec-4b5c-b1f2-36d01a2970a0
+[09Mar2025 00:19:52.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.39.140.190:39805] logged in with entity id 28500 at (-810.7815037569906, 72.0625, 1061.8755276325019)
+[09Mar2025 00:19:52.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 joined the game
+[09Mar2025 00:19:52.930] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Prince] Frank30331'.
+[09Mar2025 00:19:52.931] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (11c5b416-06ec-4b5c-b1f2-36d01a2970a0)
+[09Mar2025 00:19:53.150] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11c5b416-06ec-4b5c-b1f2-36d01a2970a0 was loaded
