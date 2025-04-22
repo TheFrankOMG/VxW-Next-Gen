@@ -505,9 +505,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-04-22 02:22:13 +0000"
+      "main": "2025-04-22 02:22:13 +0000",
+      "flower": "2025-04-22 03:12:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -567,6 +568,24 @@
   "vampirism:vampire/max_lord": {
     "criteria": {
       "level": "2025-04-22 02:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-22 03:12:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_potion": "2025-04-22 03:17:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-22 03:17:08 +0000"
     },
     "done": true
   },
