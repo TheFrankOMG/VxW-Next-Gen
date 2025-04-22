@@ -581,6 +581,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-22 03:31:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
@@ -590,6 +596,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-04-22 03:30:14 +0000"
     },
     "done": true
   },
@@ -650,6 +662,12 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-04-22 03:14:47 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-04-22 03:31:56 +0000"
     },
     "done": true
   },
@@ -824,6 +842,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
     "criteria": {
       "has_bottles": "2025-04-22 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-22 03:31:01 +0000"
     },
     "done": true
   },

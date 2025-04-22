@@ -323,3 +323,36 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [22Apr2025 03:21:18.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
 [22Apr2025 03:21:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
 [22Apr2025 03:22:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[22Apr2025 03:22:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[22Apr2025 03:23:22.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[22Apr2025 03:23:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Spectator Mode]
+[22Apr2025 03:24:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
+[22Apr2025 03:25:22.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! -43.97116374853579,0.375,209.86139481861971
+[22Apr2025 03:25:23.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to Sahankiel0717271]
+[22Apr2025 03:28:15.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved too quickly! -125.95927236883153,6.0,146.20962973259282
+[22Apr2025 03:28:46.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[22Apr2025 03:28:46.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 left the game
+[22Apr2025 03:28:46.153] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
+[22Apr2025 03:30:14.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Friendship Found]
+[22Apr2025 03:30:40.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Spectator Mode]
+[22Apr2025 03:30:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Creative Mode]
+[22Apr2025 03:31:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Mother of Dragons]
+[22Apr2025 03:31:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has made the advancement [Suit Up]
+[22Apr2025 03:31:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Spectator Mode]
+[22Apr2025 03:31:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel0717271: Set own game mode to Survival Mode]
+[22Apr2025 03:31:56.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 has completed the challenge [Best Friends]
+[22Apr2025 03:32:05.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
+[22Apr2025 03:32:05.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel0717271 left the game
+[22Apr2025 03:32:05.348] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was unloaded
+[22Apr2025 03:32:13.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Apr2025 03:32:13.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Apr2025 03:32:13.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Apr2025 03:32:13.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Apr2025 03:32:13.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Apr2025 03:32:14.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Apr2025 03:32:14.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Apr2025 03:32:14.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Apr2025 03:32:14.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Apr2025 03:32:14.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Apr2025 03:32:14.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Apr2025 03:32:14.135] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
