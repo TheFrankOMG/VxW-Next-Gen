@@ -329,3 +329,45 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 19:25:41.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Frank3033 is now a Vampire lord level 5]
 [27Apr2025 19:26:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Frank3033 is now age 5]
 [27Apr2025 19:27:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Gave 2 [Potion of Oblivion] to [Prince] Frank30331]
+[27Apr2025 19:59:03.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Creature: 111 (10), Monster: 70 (70), Hunter: 1 (15), Vampire: 0 (30)]
+[27Apr2025 19:59:20.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved wrongly!
+[27Apr2025 19:59:30.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Gave 1 [Evil Wings Bottle] to [Prince] Frank30331]
+[27Apr2025 20:00:05.488] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 8 ms
+[27Apr2025 20:00:08.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -1487.500000, 70.308095, 1280.500000]
+[27Apr2025 20:00:29.704] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_savanna took 1498 ms
+[27Apr2025 20:00:37.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -3647.500000, 78.226580, 192.500000]
+[27Apr2025 20:00:37.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5319ms or 106 ticks behind
+[27Apr2025 20:00:37.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -3647.500000, 72.854568, 192.500000]
+[27Apr2025 20:01:21.558] [Worker-Main-123/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[27Apr2025 20:01:21.565] [Worker-Main-123/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[27Apr2025 20:01:21.567] [Worker-Main-123/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[27Apr2025 20:01:21.568] [Worker-Main-123/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[27Apr2025 20:01:36.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Summoned new Unemployed]
+[27Apr2025 20:01:58.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Monster Hunter]
+[27Apr2025 20:02:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Summoned new Unemployed]
+[27Apr2025 20:02:40.845] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_snowy took 1900 ms
+[27Apr2025 20:02:49.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -9023.500000, 68.000000, 176.500000]
+[27Apr2025 20:02:49.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[27Apr2025 20:02:57.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Spectator Mode]
+[27Apr2025 20:03:02.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arjeta'/19643, l='ServerLevel[world]', x=-9023.28, y=120.00, z=162.63] died, message: 'Arjeta suffocated in a wall'
+[27Apr2025 20:03:06.290] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[27Apr2025 20:03:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 20:03:08.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valmir'/19650, l='ServerLevel[world]', x=-9023.72, y=114.41, z=194.58] died, message: 'Valmir was turned to ice by Ice Dragon'
+[27Apr2025 20:03:12.767] [Worker-Main-137/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[27Apr2025 20:03:12.768] [Worker-Main-137/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[27Apr2025 20:03:12.768] [Worker-Main-137/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[27Apr2025 20:03:12.768] [Worker-Main-137/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[27Apr2025 20:03:12.781] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[27Apr2025 20:03:18.793] [Worker-Main-142/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[27Apr2025 20:03:43.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Creative Mode]
+[27Apr2025 20:03:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Dragonslayer]
+[27Apr2025 20:03:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 20:04:32.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -9023.500000, 121.593369, 176.500000]
+[27Apr2025 20:04:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -9023.500000, 118.000000, 176.500000]
+[27Apr2025 20:04:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -3647.500000, 119.000000, 192.500000]
+[27Apr2025 20:05:43.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Set the time to 13000]
+[27Apr2025 20:07:30.246] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_snowy took 432 ms
+[27Apr2025 20:07:33.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Teleported [Prince] Frank30331 to -415.500000, 101.000000, 6352.500000]
+[27Apr2025 20:07:57.778] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element vampirism:vampire_forest took 2960 ms
+[27Apr2025 20:07:57.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[27Apr2025 20:11:40.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] Frank30331 has made the advancement [Splintering II]
