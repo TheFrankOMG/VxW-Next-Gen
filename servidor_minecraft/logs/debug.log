@@ -4130,3 +4130,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 18:22:24.774] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
 [27Apr2025 18:26:02.761] [Server thread/DEBUG] [mixin/]: Mixing WearableArtifactCurioMixin from rarcompat.mixins.json into artifacts.forge.curio.WearableArtifactCurio
 [27Apr2025 18:26:02.761] [Server thread/DEBUG] [mixin/]: rarcompat.mixins.json:WearableArtifactCurioMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Apr2025 18:26:23.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:26:23.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:26:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sanguinare Vampiris to [Prince] Frank30331]
+[27Apr2025 18:26:41.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Removed every effect from [Prince] Frank30331]
+[27Apr2025 18:26:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sanguinare Vampiris to [Prince] Frank30331]
+[27Apr2025 18:31:23.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:31:23.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

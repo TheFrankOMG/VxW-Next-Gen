@@ -290,3 +290,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 18:07:02.506] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to '[Prince] Frank30331'.
 [27Apr2025 18:07:02.512] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
 [27Apr2025 18:07:07.667] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[27Apr2025 18:26:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sanguinare Vampiris to [Prince] Frank30331]
+[27Apr2025 18:26:41.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Removed every effect from [Prince] Frank30331]
+[27Apr2025 18:26:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sanguinare Vampiris to [Prince] Frank30331]
