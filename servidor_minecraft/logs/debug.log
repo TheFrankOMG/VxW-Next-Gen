@@ -4137,3 +4137,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 18:26:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sanguinare Vampiris to [Prince] Frank30331]
 [27Apr2025 18:31:23.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 18:31:23.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:36:23.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:36:23.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:41:23.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:41:23.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:46:23.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:46:23.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:51:23.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:51:23.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:56:18.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireMinionEntity['Alex'/523, l='ServerLevel[world]', x=-811.86, y=72.06, z=1070.64] died: Alex was slain by [Prince] Frank30331

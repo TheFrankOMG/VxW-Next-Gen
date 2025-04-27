@@ -293,3 +293,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 18:26:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sanguinare Vampiris to [Prince] Frank30331]
 [27Apr2025 18:26:41.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Removed every effect from [Prince] Frank30331]
 [27Apr2025 18:26:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Applied effect Sanguinare Vampiris to [Prince] Frank30331]
+[27Apr2025 18:56:18.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireMinionEntity['Alex'/523, l='ServerLevel[world]', x=-811.86, y=72.06, z=1070.64] died: Alex was slain by [Prince] Frank30331
