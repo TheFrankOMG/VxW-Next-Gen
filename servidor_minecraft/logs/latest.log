@@ -309,3 +309,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 19:12:55.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Survival Mode]
 [27Apr2025 19:13:06.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Creative Mode]
 [27Apr2025 19:13:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 19:20:30.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Creative Mode]
+[27Apr2025 19:20:44.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 19:21:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Frank3033 is now a Vampire level 14]
+[27Apr2025 19:21:24.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[27Apr2025 19:21:24.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank30331 left the game
+[27Apr2025 19:21:24.869] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
+[27Apr2025 19:21:38.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.72.165.115:39045] logged in with entity id 11367 at (-792.4805129320224, 66.0, 1023.2761205309262)
+[27Apr2025 19:21:38.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank30331 joined the game
+[27Apr2025 19:21:38.800] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Frank30331'.
+[27Apr2025 19:21:38.800] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[27Apr2025 19:21:40.359] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[27Apr2025 19:23:03.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Creative Mode]
+[27Apr2025 19:23:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 19:23:55.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Frank3033 is now a Vampire level 0]
+[27Apr2025 19:24:33.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Applied effect Sanguinare Vampiris to Frank30331]
+[27Apr2025 19:24:49.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Frank3033 is now a Vampire level 14]
+[27Apr2025 19:25:37.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Frank3033 is now a Vampire lord level 5]
+[27Apr2025 19:25:41.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Frank3033 is now a Vampire lord level 5]
+[27Apr2025 19:26:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Frank3033 is now age 5]
