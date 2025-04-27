@@ -4440,3 +4440,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 19:26:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Frank3033 is now age 5]
 [27Apr2025 19:26:23.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 19:26:23.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 19:27:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] Frank30331: Gave 2 [Potion of Oblivion] to [Prince] Frank30331]
+[27Apr2025 19:31:23.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 19:31:23.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 19:32:09.966] [Server thread/DEBUG] [de.teamlapen.vampirism.effects.OblivionEffect/FACTIONS]: Skills were reset for Frank3033
+[27Apr2025 19:36:23.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 19:36:23.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
