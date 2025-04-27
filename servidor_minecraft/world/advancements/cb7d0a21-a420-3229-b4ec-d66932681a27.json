@@ -1151,6 +1151,12 @@
     },
     "done": true
   },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2025-04-27 20:35:52 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-27 20:03:19 +0000"
