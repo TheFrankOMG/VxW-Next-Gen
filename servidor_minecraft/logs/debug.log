@@ -4162,3 +4162,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [27Apr2025 19:01:23.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 19:06:23.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 19:06:23.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 19:07:53.458] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frank3033 has new faction level vampirism:vampire 1
+[27Apr2025 19:09:55.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Gave 1 [Evil Wings Bottle] to Frank30331]
+[27Apr2025 19:10:42.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Creative Mode]
+[27Apr2025 19:11:18.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 19:11:23.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 19:11:23.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 19:11:37.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Creative Mode]
+[27Apr2025 19:12:48.508] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frank3033 has new faction level vampirism:vampire 2
+[27Apr2025 19:12:55.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 19:13:06.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Creative Mode]
+[27Apr2025 19:13:12.263] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frank3033 has new faction level vampirism:vampire 3
+[27Apr2025 19:13:21.009] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frank3033 has new faction level vampirism:vampire 4
+[27Apr2025 19:13:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank30331: Set own game mode to Survival Mode]
+[27Apr2025 19:16:23.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 19:16:23.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
