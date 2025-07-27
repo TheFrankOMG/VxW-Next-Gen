@@ -527,6 +527,30 @@
     },
     "done": true
   },
+  "vampirism:vampire/max_level": {
+    "criteria": {
+      "level": "2025-04-22 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-04-22 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2025-04-22 03:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-22 03:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
@@ -581,12 +605,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2025-04-22 03:31:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
@@ -596,12 +614,6 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
-    },
-    "done": true
-  },
-  "mca:friend": {
-    "criteria": {
-      "baby": "2025-04-22 03:30:14 +0000"
     },
     "done": true
   },
@@ -665,12 +677,6 @@
     },
     "done": true
   },
-  "mca:best_friend": {
-    "criteria": {
-      "baby": "2025-04-22 03:31:56 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_iron": "2025-04-22 03:14:47 +0000"
@@ -686,12 +692,6 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-04-22 03:14:47 +0000"
-    },
-    "done": true
-  },
-  "mca:merchant": {
-    "criteria": {
-      "baby": "2025-04-22 03:11:10 +0000"
     },
     "done": true
   },
@@ -773,12 +773,6 @@
     },
     "done": true
   },
-  "vampirism:vampire/max_level": {
-    "criteria": {
-      "level": "2025-04-22 03:05:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
@@ -797,12 +791,6 @@
     },
     "done": true
   },
-  "vampirism:vampire/become_vampire": {
-    "criteria": {
-      "main": "2025-04-22 03:05:52 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
       "has_iron": "2025-04-22 03:14:47 +0000"
@@ -812,12 +800,6 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-22 03:14:45 +0000"
     },
     "done": true
   },
@@ -839,18 +821,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
-    "criteria": {
-      "has_bottles": "2025-04-22 03:15:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-04-22 03:31:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 03:14:47 +0000"
@@ -863,9 +833,57 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_bottles": "2025-04-22 03:15:55 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/potion_table": {
     "criteria": {
       "has_glass_bottle": "2025-04-22 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-04-22 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-22 03:31:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-22 03:31:10 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-04-22 03:31:56 +0000"
+    },
+    "done": true
+  },
+  "rogcontinued:rogadvancement": {
+    "criteria": {
+      "rogadvancement": "2025-07-27 22:18:04 +0000"
+    },
+    "done": true
+  },
+  "rogcontinued:nier_weapons_advance": {
+    "criteria": {
+      "nier_weapons_advance": "2025-07-27 22:18:05 +0000"
+    },
+    "done": true
+  },
+  "aerlunerpg:worlda": {
+    "criteria": {
+      "worlda": "2025-07-27 22:20:44 +0000"
     },
     "done": true
   },

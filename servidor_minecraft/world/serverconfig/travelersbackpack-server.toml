@@ -32,6 +32,8 @@
 		#Allows sleeping in a sleeping bag without the need to unequip and place the backpack on the ground
 		quickSleepingBag = true
 		enableSleepingBagSpawnPoint = false
+		#Prevents more than one player from accessing the backpack at the same time when it's placed on the ground
+		preventMultiplePlayersAccess = false
 
 		#Leather Tier Backpack Settings
 		[server.backpackSettings.leatherTierBackpack]

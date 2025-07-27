@@ -220,6 +220,9 @@
 		#Basic skill - Weapon cooldown = 1/(oldvalue*(1+modifier))
 		#Range: 0.0 ~ 3.0
 		smallAttackSpeedModifier = 0.15
+		#Damage to multiply as total (value + 1)
+		#Range: 0.0 ~ 1.0
+		smallAttackDamageMultiplier = 0.10000000149011612
 
 	[balance.vampire_refinements]
 		#For every kill the rage duration is extended by this amount. In seconds.
@@ -456,6 +459,13 @@
 		#In seconds
 		#Range: 1 ~ 1000
 		darkBloodProjectileCooldown = 4
+		#In seconds
+		#Range: > 10
+		jumpBoostDuration = 2147483647
+		#In seconds
+		#Range: 0 ~ 10000
+		jumpBoostCooldown = 0
+		jumpBoostEnabled = true
 
 	[balance.village]
 		#Squared distance of village capture notification
