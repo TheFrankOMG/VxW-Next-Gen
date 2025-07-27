@@ -10,6 +10,7 @@
 		permit_ClimbPoles = true
 		permit_ClimbUp = true
 		permit_ClingToCliff = true
+		permit_HideInBlock = true
 		permit_Crawl = true
 		permit_Dive = true
 		permit_Dodge = true
@@ -20,6 +21,7 @@
 		permit_HorizontalWallRun = true
 		permit_JumpFromBar = true
 		permit_QuickTurn = true
+		permit_RideZipline = true
 		permit_Roll = true
 		permit_SkyDive = true
 		permit_Slide = true
@@ -28,8 +30,6 @@
 		permit_VerticalWallRun = true
 		permit_WallJump = true
 		permit_WallSlide = true
-		permit_HideInBlock = true
-		permit_RideZipline = true
 		permit_StartSwimByCrawl = true
 
 	[Limitations.Stamina]
@@ -56,6 +56,8 @@
 			#Range: 0 ~ 10000
 			stamina_consumption_of_ClingToCliff = 2
 			#Range: 0 ~ 10000
+			stamina_consumption_of_HideInBlock = 0
+			#Range: 0 ~ 10000
 			stamina_consumption_of_Crawl = 0
 			#Range: 0 ~ 10000
 			stamina_consumption_of_Dive = 0
@@ -76,6 +78,8 @@
 			#Range: 0 ~ 10000
 			stamina_consumption_of_QuickTurn = 0
 			#Range: 0 ~ 10000
+			stamina_consumption_of_RideZipline = 2
+			#Range: 0 ~ 10000
 			stamina_consumption_of_Roll = 100
 			#Range: 0 ~ 10000
 			stamina_consumption_of_SkyDive = 0
@@ -91,10 +95,6 @@
 			stamina_consumption_of_WallJump = 120
 			#Range: 0 ~ 10000
 			stamina_consumption_of_WallSlide = 8
-			#Range: 0 ~ 10000
-			stamina_consumption_of_HideInBlock = 0
-			#Range: 0 ~ 10000
-			stamina_consumption_of_RideZipline = 2
 			#Range: 0 ~ 10000
 			stamina_consumption_of_StartSwimByCrawl = 0
 
